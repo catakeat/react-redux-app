@@ -30,6 +30,16 @@ const AddPost = ({ contacts, addContact }) => {
           if (checkContactPhoneExists.length > 0) {
             return toast.error("This phone number already exists!!");
           }
+
+const data = {
+    id : contacts.length > 0 ? contacts[contacts.length-1].id+1:0,
+    email,
+    name,
+    phone,
+}
+addContact(data);
+toast.success("Contact added successfully!!");
+history.push("/");
     }
 
 }
