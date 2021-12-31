@@ -1,0 +1,17 @@
+-------------------- Auto-Git Log --------------------
+		Fri Dec 31 2021 17:00:56 GMT+0200 (Ora standard a Europei de Est)
+------------------------------------------------------
+
+Modified files:
+* src/App.js
+
+
+Created files:
+* .autogit/logs/log-31-11-2021-16-30-46.txt
+* src/components/AddPost.js
+
+
+Deleted files:
+
+
+Renamed files:
