@@ -1,0 +1,19 @@
+-------------------- Auto-Git Log --------------------
+		Fri Dec 31 2021 16:00:35 GMT+0200 (Ora standard a Europei de Est)
+------------------------------------------------------
+
+Modified files:
+* package-lock.json
+* package.json
+* public/index.html
+* src/index.js
+
+
+Created files:
+* .autogit/logs/log-31-11-2021-15-30-24.txt
+
+
+Deleted files:
+
+
+Renamed files:
